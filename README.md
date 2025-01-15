@@ -6,8 +6,7 @@ be thought of as a series of six stages. I implement roughly 4 stages of the pip
 - 2. Stage 2: view transformation
 - 3. Stage 3: projection transformation
 - 4. Stage 4: clipping & scan conversion using Z-buffer algorithm \
-### **Offline_03** -->  In this assignment, you have to generate realistic images for a few geometric shapes using ray
-tracing with appropriate illumination techniques. \
+### **Offline_03** -->  In this assignment, you have to generate realistic images for a few geometric shapes using ray tracing with appropriate illumination techniques. 
 Prerequisites:
 - 1. Basic knowledge of OpenGL (What you have learned in assignment 1 should be
 sufficient)
